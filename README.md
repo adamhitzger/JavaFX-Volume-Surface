@@ -22,7 +22,7 @@ This JavaFX application is a 3D geometry calculator that allows users to calcula
 
 ### Installation
 
-1. Clone the repository: git clone https://github.com/<your_username>/JavaFX-Volume-Surface.git
+1. Clone the repository: git clone https://github.com/adamhitzger/JavaFX-Volume-Surface.git
 
 
 ![Volume&Surface calculator](geometry-calculator/src/main/resources/com/example/it/geometrycalculator/images/screenshot.png)
