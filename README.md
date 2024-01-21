@@ -18,7 +18,7 @@ This JavaFX application is a 3D geometry calculator that allows users to calcula
 ### Prerequisites
 
 - Java Development Kit (JDK) installed
-- [Other dependencies...]
+- IDE
 
 ### Installation
 
